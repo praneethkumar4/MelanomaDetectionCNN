@@ -26,4 +26,4 @@ The following steps are done while building the different models:
 - Model Building & training on the augmented data
 - Class distribution Examination
 - Handling class imbalances
-- Model Building & training on the rectified class imbalance data :
+- Model Building & training on the rectified class imbalance data
